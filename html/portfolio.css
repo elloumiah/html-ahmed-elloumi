@@ -1,0 +1,20 @@
+p {
+  color: red;
+}
+
+.navbar {
+  color: red;
+  width: 70px;
+  height: 20px;
+  border: 1px solid black;
+  display: inline-block;
+  font-family: Helvetica neue, roboto;
+}
+.titel {
+  color: grey;
+}
+span {
+  display: block;
+  color: black;
+  font-family: Helvetica neue, roboto;
+}
